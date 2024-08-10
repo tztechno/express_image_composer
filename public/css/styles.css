@@ -1,0 +1,36 @@
+#thumbnails {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+
+.thumbnail {
+    margin-bottom: 10px;
+}
+
+.thumbnail img {
+    width: 100px;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.thumbnail {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #ddd;
+    /* 細い線で枠をつける */
+    padding: 5px;
+    text-align: center;
+}
+
+.thumbnail img {
+    max-width: 150px;
+    /* サムネイルサイズを設定 */
+    max-height: 150px;
+    /* サムネイルサイズを設定 */
+    display: block;
+    margin: 0 auto;
+}
