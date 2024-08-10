@@ -1,11 +1,7 @@
 ```
-ver.05 23:00
-完全に完成
-Webアプリでもよければ
-
-ver.01 16:20
-画面OK,Result表示はなし
-実行しようよしたところcannot post
--->prompt01
-
+2024-08-10 14:00
+ver.5.c 
+local再設置成功確認
+GitHub保存
+vercel設置は断念
 ```
