@@ -2,9 +2,9 @@
 
 ```
 
-jsで作られている
+javascript
 
-localhostdで動作確認
+localで動作確認
 
 expressで作成
 
